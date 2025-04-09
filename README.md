@@ -1,6 +1,29 @@
 # Gen AI Project : Customized Chatbot for Data Science and AI Learning
 
-<img width="960" alt="Screenshot 2025-04-02 010040" src="https://github.com/user-attachments/assets/150de5dc-a159-41d0-997a-eaa4393f5ae1" />
+## Image1
+<img width="960" alt="Screenshot 2025-04-08 233500" src="https://github.com/user-attachments/assets/eae60fb0-ab05-4b91-a1b1-29ea9af79fef" />
+
+## Image2
+
+<img width="960" alt="Screenshot 2025-04-08 233529" src="https://github.com/user-attachments/assets/2cddf563-dffb-4728-bb87-a2cf98becef2" />
+
+## Image3
+
+<img width="960" alt="Screenshot 2025-04-08 233549" src="https://github.com/user-attachments/assets/980618da-309d-4b56-af46-0591146bd822" />
+
+## Image4
+
+<img width="960" alt="Screenshot 2025-04-08 233622" src="https://github.com/user-attachments/assets/1e96fc18-bd95-4ffe-9eb7-16d0540adfba" />
+
+## Image5
+
+<img width="960" alt="Screenshot 2025-04-08 233706" src="https://github.com/user-attachments/assets/464ab9b9-6671-4b8d-9d0f-b65015107631" />
+
+
+
+
+
+
 
 ## Overview
 
