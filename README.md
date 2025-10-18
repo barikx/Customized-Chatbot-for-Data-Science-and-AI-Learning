@@ -1,4 +1,4 @@
-# Gen AI Project : Customized Chatbot for Data Science and AI Learning
+# Generative AI-Powered Chatbot for Personalized Data Science and AI Learning
 
 ## Image1
 <img width="960" alt="Screenshot 2025-04-08 233500" src="https://github.com/user-attachments/assets/eae60fb0-ab05-4b91-a1b1-29ea9af79fef" />
