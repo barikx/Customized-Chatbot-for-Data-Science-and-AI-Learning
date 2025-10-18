@@ -34,10 +34,15 @@ It acts as a personal AI tutor, guiding users through coding concepts, theory, a
 ## Features
 
 ✅ Generative AI Integration – Uses Groq Llama 3.3 (70B) model for natural, detailed answers
+
 ✅ Custom Prompt Engineering – Optimized for Data Science and AI topics only
+
 ✅ Interactive Chat Interface – Flask-based web UI for easy interaction
+
 ✅ Session-Based API Authentication – Secure key management via Flask sessions
+
 ✅ Conversation Memory – Retains chat history for contextual responses
+
 ✅ Structured Logging – Integrated custom logger for debugging and monitoring
 
 ## Tech Stack
